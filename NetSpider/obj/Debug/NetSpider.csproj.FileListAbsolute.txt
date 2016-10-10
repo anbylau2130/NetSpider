@@ -1,0 +1,30 @@
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\NetSpider.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\NetSpider.exe
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\NetSpider.pdb
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\HtmlAgilityPack.dll
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\JumpKick.HttpLib.dll
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\JumpKick.HttpLib.pdb
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\bin\Debug\HtmlAgilityPack.pdb
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\obj\Debug\NetSpider.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\obj\Debug\NetSpider.exe
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\NetSpider\obj\Debug\NetSpider.pdb
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\NetSpider.exe.config
+C:\Users\xycui\Desktop\NetSpider\NetSpider\obj\Debug\NetSpider.exe
+C:\Users\xycui\Desktop\NetSpider\NetSpider\obj\Debug\NetSpider.pdb
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\NetSpider.exe
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\NetSpider.pdb
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\HtmlAgilityPack.dll
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\JumpKick.HttpLib.dll
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\xycui\Desktop\NetSpider\NetSpider\bin\Debug\JumpKick.HttpLib.pdb
+C:\Users\xycui\Desktop\NetSpider\NetSpider\obj\Debug\NetSpider.csprojResolveAssemblyReference.cache
+D:\Projects\NetSpider\NetSpider\bin\Debug\NetSpider.exe.config
+D:\Projects\NetSpider\NetSpider\obj\Debug\NetSpider.exe
+D:\Projects\NetSpider\NetSpider\obj\Debug\NetSpider.pdb
+D:\Projects\NetSpider\NetSpider\bin\Debug\NetSpider.exe
+D:\Projects\NetSpider\NetSpider\bin\Debug\NetSpider.pdb
+D:\Projects\NetSpider\NetSpider\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\NetSpider\NetSpider\bin\Debug\JumpKick.HttpLib.dll
+D:\Projects\NetSpider\NetSpider\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\NetSpider\NetSpider\bin\Debug\JumpKick.HttpLib.pdb
+D:\Projects\NetSpider\NetSpider\obj\Debug\NetSpider.csprojResolveAssemblyReference.cache

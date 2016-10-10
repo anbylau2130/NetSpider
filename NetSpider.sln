@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSpider", "NetSpider\NetSpider.csproj", "{71BE0A89-AF2B-4BE1-9659-AFE3DC25DC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpKick.HttpLib", "JumpKick.HttpLib\JumpKick.HttpLib.csproj", "{50816201-BC80-4F8B-A3B7-6E69C256CD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack", "HtmlAgilityPack\HtmlAgilityPack.csproj", "{B9862946-234B-4D6D-80BE-0AADBB1F7362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BE0A89-AF2B-4BE1-9659-AFE3DC25DC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BE0A89-AF2B-4BE1-9659-AFE3DC25DC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BE0A89-AF2B-4BE1-9659-AFE3DC25DC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BE0A89-AF2B-4BE1-9659-AFE3DC25DC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50816201-BC80-4F8B-A3B7-6E69C256CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50816201-BC80-4F8B-A3B7-6E69C256CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50816201-BC80-4F8B-A3B7-6E69C256CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50816201-BC80-4F8B-A3B7-6E69C256CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9862946-234B-4D6D-80BE-0AADBB1F7362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9862946-234B-4D6D-80BE-0AADBB1F7362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9862946-234B-4D6D-80BE-0AADBB1F7362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9862946-234B-4D6D-80BE-0AADBB1F7362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

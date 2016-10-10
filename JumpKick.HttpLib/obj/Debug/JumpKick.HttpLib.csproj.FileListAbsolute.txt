@@ -1,0 +1,15 @@
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\JumpKick.HttpLib\bin\Debug\JumpKick.HttpLib.dll
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\JumpKick.HttpLib\bin\Debug\JumpKick.HttpLib.pdb
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.dll
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.pdb
+C:\Users\xycui\Desktop\NetSpider\JumpKick.HttpLib\bin\Debug\JumpKick.HttpLib.dll
+C:\Users\xycui\Desktop\NetSpider\JumpKick.HttpLib\bin\Debug\JumpKick.HttpLib.pdb
+C:\Users\xycui\Desktop\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.dll
+C:\Users\xycui\Desktop\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.pdb
+C:\Users\xycui\Desktop\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.csprojResolveAssemblyReference.cache
+D:\Projects\NetSpider\JumpKick.HttpLib\bin\Debug\JumpKick.HttpLib.dll
+D:\Projects\NetSpider\JumpKick.HttpLib\bin\Debug\JumpKick.HttpLib.pdb
+D:\Projects\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.csprojResolveAssemblyReference.cache
+D:\Projects\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.dll
+D:\Projects\NetSpider\JumpKick.HttpLib\obj\Debug\JumpKick.HttpLib.pdb

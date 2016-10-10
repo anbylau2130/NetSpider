@@ -1,0 +1,14 @@
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+c:\users\eric\documents\visual studio 2012\Projects\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+C:\Users\xycui\Desktop\NetSpider\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\xycui\Desktop\NetSpider\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\xycui\Desktop\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+C:\Users\xycui\Desktop\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+D:\Projects\NetSpider\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\NetSpider\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+D:\Projects\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+D:\Projects\NetSpider\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
